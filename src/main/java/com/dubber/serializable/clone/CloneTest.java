@@ -4,6 +4,8 @@ package com.dubber.serializable.clone;
  *
  * @author dubber
  * @date 2018/5/31
+ *
+ * 序列化实现深克隆 以及 cloneable 接口 浅克隆的实现
  */
 public class CloneTest {
     public static void main(String[] args) throws CloneNotSupportedException {

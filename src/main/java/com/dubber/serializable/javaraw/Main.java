@@ -7,6 +7,8 @@ import java.io.File;
  *
  * @author dubber
  * @date 2018/5/31
+ *
+ * 对 java 序列化的一些学习，包括序列化的范围，序列化实现形式。
  */
 public class Main {
     public static void main(String[] args) {

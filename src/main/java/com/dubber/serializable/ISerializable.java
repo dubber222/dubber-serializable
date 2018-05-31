@@ -1,4 +1,4 @@
-package com.dubber.serializable.javaraw;
+package com.dubber.serializable;
 
 import java.io.IOException;
 

@@ -1,5 +1,7 @@
 package com.dubber.serializable.javaraw;
 
+import com.dubber.serializable.ISerializable;
+
 import java.io.*;
 
 /**
