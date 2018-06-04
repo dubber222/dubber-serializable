@@ -1,5 +1,7 @@
 package com.dubber.serializable.xml;
 
+import com.dubber.serializable.PC;
+
 /**
  * Demo class
  *
@@ -9,7 +11,7 @@ package com.dubber.serializable.xml;
 public class Main {
 
     public static void main(String[] args) {
-        PC  pc = new PC();
+        PC pc = new PC();
         pc.setName("联想");
         pc.setCount(4800);
 
@@ -18,4 +20,6 @@ public class Main {
         PC pc1 = xmlSerializable.deSerializable(xmlByte,PC.class);
         System.out.println(pc1.toString());
     }
+
+
 }

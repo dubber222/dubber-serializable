@@ -27,5 +27,12 @@ public class Main {
         System.out.println(serializable.deSerializableFile("d:/car.txt").toString());
 
         System.out.println(new File("d:/car.txt").length());
+
+
+        User user = new User();
+        user.setName("睿睿小王子");
+        user.setAge("0");
+        System.out.println("user bytes length : " + serializable.serializable(user).length);
+
     }
 }

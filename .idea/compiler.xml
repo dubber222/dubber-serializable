@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dubber-serializable" />
+        <module name="serializer-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dubber-serializable" target="1.7" />
+      <module name="serializer-demo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

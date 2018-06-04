@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dubber-serializable.iml" filepath="$PROJECT_DIR$/dubber-serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mic-vip/2018/20180530-分布式系统的原理序列化和反序列化/serializer-demo/serializer-demo.iml" filepath="$PROJECT_DIR$/../mic-vip/2018/20180530-分布式系统的原理序列化和反序列化/serializer-demo/serializer-demo.iml" />
     </modules>
   </component>
 </project>

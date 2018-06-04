@@ -1,4 +1,4 @@
-package com.dubber.serializable.xml;
+package com.dubber.serializable;
 
 /**
  * Demo class
